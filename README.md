@@ -1,7 +1,7 @@
 ## Setup
 
 1. Clone project to your local folder:
-```git clone git@gitlab.newmatik.com:gunslinger/scrapy.git```
+```git clone https://github.com/gunslinger/Python-Electronic-Component-Scraper.git```
 
 2. Install Python Scrapy:
 ```pip install scrapy```
